@@ -1,0 +1,6 @@
+{
+  "version": 3,
+  "sources": [],
+  "sections": [
+    {"offset": {"line": 18, "column": 0}, "map": {"version":3,"sources":["file:///Volumes/SandiskSSD/projects/portfolio/app/page.tsx"],"sourcesContent":["import Image from \"next/image\";\n\nexport default function Home() {\n  return (\n    <div className=\"max-w-7xl flex min-h-screen items-center justify-center bg-zinc-50 font-sans dark:bg-black\">\n      <main className=\"flex min-h-screen w-full max-w-5xl flex-col bg-white dark:bg-black\">\n        \n       \n      </main>\n    </div>\n  );\n}\n"],"names":[],"mappings":";;;;;;AAEe,SAAS;IACtB,qBACE,8OAAC;QAAI,WAAU;kBACb,cAAA,8OAAC;YAAK,WAAU;;;;;;;;;;;AAMtB"}}]
+}
