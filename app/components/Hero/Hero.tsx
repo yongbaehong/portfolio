@@ -19,10 +19,10 @@ export default function Hero() {
             projects and get in touch!
           </p>
           <a
-            href="#portfolio"
+            href="#contact"
             className="inline-block bg-honey-bronze text-white px-6 py-3 rounded-full hover:bg-honey-bronze/80 transition"
           >
-            View My Work
+            Get In Touch
           </a>
         </div>
         {/* Right side of hero */}
