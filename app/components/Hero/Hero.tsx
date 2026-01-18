@@ -28,7 +28,7 @@ export default function Hero() {
         {/* Right side of hero */}
         <div className="sm:col-span-full lg:col-span-1 flex justify-center items-center">
           <Image
-            src="/hero-image-01.png"
+            src="./hero-image-01.png"
             alt="Hero Image"
             width={300}
             height={300}

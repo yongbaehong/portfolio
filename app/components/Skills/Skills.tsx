@@ -45,7 +45,7 @@ function Skills() {
         {/* Left side */}
         <div className="sm:col-span-full lg:col-span-1 ">
           <Image
-            src="/skills-image-03.png"
+            src="./skills-image-03.png"
             alt="Hero Image"
             width={200}
             height={200}
