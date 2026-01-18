@@ -35,7 +35,7 @@ const techLogos = [
 function Skills() {
   return (
     <section
-      id="skills"
+      id="services"
       className="py-20 bg-white dark:bg-gray-800 transition-colors duration-500"
     >
       <h2 className="text-3xl font-bold text-center text-dark dark:text-white mb-12">
