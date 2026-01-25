@@ -18,10 +18,10 @@ export default function Example() {
         <div className="mx-auto mt-16 max-w-xl sm:mt-20">
           Please Email me at:{" "}
           <a
-            href="mailto:yongbae40176@gmail.com"
+            href="mailto:codingyongbae@gmail.com"
             className="text-indigo-600 hover:text-indigo-500"
           >
-            yongbae40176@gmail.com
+            codingyongbae@gmail.com
           </a>
         </div>
       </form>
