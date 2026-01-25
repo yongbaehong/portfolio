@@ -1,5 +1,5 @@
 "use client";
-
+import Image from "next/image";
 import {
   Disclosure,
   DisclosureButton,
@@ -48,10 +48,15 @@ export default function Header() {
           {/* Start of desktop navigation */}
           <div className="flex flex-1 items-center justify-center sm:items-stretch sm:justify-start">
             <div className="flex shrink-0 items-center text-dark">
-              My Logo Here
+              <Image
+                src="./nav-logo.png"
+                alt="Logo"
+                width={62}
+                height={32}
+              /> 
             </div>
-            <div className="hidden sm:ml-6 sm:block">
-              <div className="flex space-x-4">
+            <div className="hidden sm:ml-6 sm:block align-middle">
+              <div className="flex space-x-4 justify-center items-center h-full">
                 {navigation.map((item) => (
                   <a
                     key={item.name}
